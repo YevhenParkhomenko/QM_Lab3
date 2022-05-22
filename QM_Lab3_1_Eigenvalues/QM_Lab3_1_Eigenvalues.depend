@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653214118 source:g:\Уник\ЧМ\qm_lab3_1_eigenvalues\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<algorithm>
+	<iomanip>
+

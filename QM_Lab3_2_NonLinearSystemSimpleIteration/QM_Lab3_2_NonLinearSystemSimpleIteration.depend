@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653216722 source:g:\Óíèê\×Ì\qm_lab3_2_nonlinearsystemsimpleiteration\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<iomanip>
+
